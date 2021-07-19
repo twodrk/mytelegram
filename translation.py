@@ -4,7 +4,7 @@ Hai Iam a Simple My.telegram.org Bot.
 
 To Get API ID & API HASH Enter your Telegram Phone Number With Country Code.
 
-🤖Bot Update @NS_Bot_Update
+🤖Bot Updates : @NS_Bot_Update
 
 Click /Start To Restart The Progress"""
     AFTER_RECVD_CODE_TEXT = """I see!
@@ -19,4 +19,4 @@ Click /Start To Restart The Progress"""
     ERRED_PAGE = "something wrongings. failed to get app id. \n\n@NS_Bot_Supporters\n\nHow Get Api Code For Website"
     CANCELLED_MESG = "Bye! Please re /start the bot conversation"
     IN_VALID_CODE_PVDED = "sorry, but the input does not seem to be a valid Telegram Web-Login code"
-    IN_VALID_PHNO_PVDED = "sorry, but the input does not seem to be a valid phone number
+    IN_VALID_PHNO_PVDED = "sorry, but the input does not seem to be a valid phone number"
