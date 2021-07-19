@@ -4,7 +4,7 @@ Hai Iam a Simple My.telegram.org Bot.
 
 To Get API ID & API HASH Enter your Telegram Phone Number With Country Code.
 
-🤖Bot Updates : @NS_Bot_Update
+🤖Bot Updates : @NS_Bot_Updates
 
 Click /Start To Restart The Progress"""
     AFTER_RECVD_CODE_TEXT = """I see!
