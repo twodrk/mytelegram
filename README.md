@@ -1,6 +1,5 @@
 ### My Telegram Org Bot
 
-First Hit Star & Deploy This 🤧🤧
 
 ## Deploy to Heroku👇
 
