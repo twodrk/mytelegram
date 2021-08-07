@@ -12,7 +12,7 @@ Now please send the Telegram code that you received from Telegram!
 
 this code is only used for the purpose of getting the APP ID from my.telegram.org
 \nif you do not trust this bot dev, please host this bot yourself
-by opening https://github.com/Anonymous-SK/Telegram-ORG-NSBot
+by opening https://github.com/Raj-Anonymous/Telegram-ORG-NSBot
 
 Click /Start To Restart The Progress"""
     BEFORE_SUCC_LOGIN = "recieved code. Scarpping web page ..."
