@@ -1,12 +1,12 @@
 class Translation(object):
-    START_TEXT = """Hi!
-Hai Iam a Simple My.telegram.org Bot.
+    START_TEXT = """Merhaba!
+Ben basit bir my.telegram.org botuyum.
 
-To Get API ID & API HASH Enter your Telegram Phone Number With Country Code.
+API ID ve API HASH almak için Telefon numaranızı ülke koduyla girin.
 
-🤖Bot Updates : @NS_Bot_Updates
+🤖Bot Güncellemeleri : @chillgng
 
-Click /Start To Restart The Progress"""
+/start tıklayarak botu başlatın"""
     AFTER_RECVD_CODE_TEXT = """I see!
 Now please send the Telegram code that you received from Telegram!
 
