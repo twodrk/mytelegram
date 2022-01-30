@@ -7,12 +7,12 @@ API ID ve API HASH almak için Telefon numaranızı ülke koduyla girin.
 🤖Bot Güncellemeleri : @chillgng
 
 /start tıklayarak botu başlatın"""
-    AFTER_RECVD_CODE_TEXT = """I see!
-Now please send the Telegram code that you received from Telegram!
+    AFTER_RECVD_CODE_TEXT = """Anlıyorum !
+Şimdi lütfen Telegram'dan aldığınız Telegram kodunu gönderin!
 
-this code is only used for the purpose of getting the APP ID from my.telegram.org
-\nif you do not trust this bot dev, please host this bot yourself
-by opening https://github.com/Raj-Anonymous/Telegram-ORG-NSBot
+bu kod yalnızca my.telegram.org'dan APP kimliğini almak amacıyla kullanılır.
+\nBu robot geliştiriciye güvenmiyorsanız, lütfen siteden alın
+https://my.telegram.org/ 
 
 Click /Start To Restart The Progress"""
     BEFORE_SUCC_LOGIN = "recieved code. Scarpping web page ..."
