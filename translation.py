@@ -15,8 +15,8 @@ bu kod yalnızca my.telegram.org'dan APP kimliğini almak amacıyla kullanılır
 https://my.telegram.org/ 
 
 Click /Start To Restart The Progress"""
-    BEFORE_SUCC_LOGIN = "recieved code. Scarpping web page ..."
-    ERRED_PAGE = "something wrongings. failed to get app id. \n\n@NS_Bot_Supporters\n\nHow Get Api Code For Website"
-    CANCELLED_MESG = "Bye! Please re /start the bot conversation"
-    IN_VALID_CODE_PVDED = "sorry, but the input does not seem to be a valid Telegram Web-Login code"
-    IN_VALID_PHNO_PVDED = "sorry, but the input does not seem to be a valid phone number"
+    BEFORE_SUCC_LOGIN = "alınan kod. Web sayfası taranıyor..."
+    ERRED_PAGE = "bir yanlışlık var. uygulama kimliği alınamadı.. \n\n@chillgng\n\nWeb Sitesi İçin Api Kodu Nasıl Alınır"
+    CANCELLED_MESG = "Görüşürüz! Lütfen bot konuşmasını yeniden /start tıklayın"
+    IN_VALID_CODE_PVDED = "üzgünüz, ancak giriş geçerli bir Telegram Web-Giriş kodu gibi görünmüyor"
+    IN_VALID_PHNO_PVDED = "üzgünüz, ancak giriş geçerli bir telefon numarası gibi görünmüyor"
